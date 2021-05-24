@@ -1,3 +1,11 @@
+# Build Native
+
+- for linux or mac
+`./gradlew bootRun`
+
+- for windows
+`gradlew bootRun`
+
 # RESTAURANT DOCKER EXAMPLE
 
 ## For build
